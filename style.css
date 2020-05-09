@@ -72,7 +72,7 @@ img{
   display: block;
   width: 250px;
   height: 250px;
-  background: url(./images/M1.png);
+  background: url(https://colasister.github.io/week3Team/images/M1.png);
   /* 圖片取代文字技巧 */
   text-indent: 100%;
   white-space: nowrap;
@@ -150,7 +150,7 @@ img{
 .logo a{
   width: 150px;
   height: 150px;
-  background: url(./images/M2.png);
+  background: url(https://colasister.github.io/week3Team/images/M.png);
 }
 
 .menu li{
